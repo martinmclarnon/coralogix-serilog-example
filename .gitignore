@@ -1,0 +1,84 @@
+# .NET Core related
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.pdb
+*.cache
+*.log
+*.csproj.user
+*.dbmdl
+*.jfm
+
+# Visual Studio Code specific
+.vscode/
+.history/
+
+# User-specific files
+*.sln.ide
+*.sln.docstates
+*.sln.cache
+*.swp
+*.swo
+
+# Build results
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+*.log
+*.tmp
+
+# DotNet Console and Web application dependencies
+*.db
+libman.json
+
+# Rider/JetBrains specific
+.idea/
+*.sln.iml
+*.dotsettings
+.idea_modules/
+
+# ASP.NET temporary files
+.vs/
+wwwroot/lib/
+wwwroot/node_modules/
+wwwroot/dist/
+
+# NuGet packages
+*.nupkg
+.nuget/packages/
+.nuget/repository/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temp files
+temp/
+tmp/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Uncomment if using yarn
+# yarn.lock
+
+# If using npm
+package-lock.json
+
+# Publish Output
+.publish/
+
+# Generated files by the IDE or OS
+.DS_Store
+Thumbs.db
+
+# Local environment-specific configuration
+appsettings.local-development.json

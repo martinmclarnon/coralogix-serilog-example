@@ -1,0 +1,11 @@
+{
+    "profiles": {
+      "coralogix-serilog-example": {
+        "commandName": "Project",
+        "environmentVariables": {
+          "ASPNETCORE_ENVIRONMENT": "Development"
+        }
+      }
+    }
+  }
+  
